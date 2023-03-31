@@ -9,12 +9,13 @@ AG News Dataset
 
 Performance and Results:
 
-Training	Fully Fine-tuned RoBerta	Frozen RoBerta
-Training Loss	0.2136	1.3952
-Training Accuracy	92.68	24.15
-Training Precision	93.02	29.11
-Training Recall	93.14	51.23
-Training F1 Score	90.08	15.9
+| Training	| Fully Fine-tuned RoBerta |	Frozen RoBerta |
+-------------------------------------------------------|
+| Training Loss |	0.2136 |	1.3952 |
+| Training Accuracy |	92.68 |	24.15 |
+| Training Precision |	93.02 |	29.11 |
+| Training Recall |	93.14 |	51.23 |
+| Training F1 Score |	90.08 |	15.9 |
 
 Testing	Fully Fine-tuned RoBerta	Frozen RoBerta
 Testing Loss	0.1674	1.392
@@ -26,4 +27,4 @@ Testing F1 Score	92.2	13.44
 
     
     
-![image](https://user-images.githubusercontent.com/64778259/229171717-49bb8614-ab8e-493c-80ee-4ed819a1a821.png)
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/64778259/229172152-1f98751d-3017-4bce-9b48-f6496ffcc365.png">
