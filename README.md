@@ -4,10 +4,10 @@ The RoBERTa model was proposed in RoBERTa: A Robustly Optimized BERT Pretraining
 
 It builds on BERT and modifies key hyperparameters, removing the next-sentence pretraining objective and training with much larger mini-batches and learning rates.
 
-##Dataset:
+## Dataset:
 AG News Dataset
 
-##Usage
+## Usage
 The `RoBerta_Finetune.ipynb` file can run locally through Jupyter Notebook or Google Colab.
 
 Requirements:
@@ -17,7 +17,7 @@ Run the below command in the terminal to install dependencies.
 `pip install -r requirements.txt`
 
 
-##Performance and Results:
+## Performance and Results:
 
 | Training	| Fully Fine-tuned RoBerta |	Frozen RoBerta |
 ------------|--------------------------|---------------|
