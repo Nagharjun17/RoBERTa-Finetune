@@ -17,12 +17,13 @@ Performance and Results:
 | Training Recall |	93.14 |	51.23 |
 | Training F1 Score |	90.08 |	15.9 |
 
-Testing	Fully Fine-tuned RoBerta	Frozen RoBerta
-Testing Loss	0.1674	1.392
-Testing Accuracy	94.56	24.13
-Testing Precision	95.21	35.11
-Testing Recall	95.52	71.14
-Testing F1 Score	92.2	13.44
+| Testing |	Fully Fine-tuned RoBerta |	Frozen RoBerta |
+----------|--------------------------|-----------------|
+| Testing Loss |	0.1674 |	1.392 |
+| Testing Accuracy |	94.56 |	24.13 |
+| Testing Precision |	95.21 |	35.11 |
+| Testing Recall |	95.52 |	71.14 |
+| Testing F1 Score |	92.2 |	13.44 |
 
 
     
