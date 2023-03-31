@@ -8,7 +8,7 @@ It builds on BERT and modifies key hyperparameters, removing the next-sentence p
 AG News Dataset
 
 ## Usage
-The `RoBerta_Finetune.ipynb` file can run locally through Jupyter Notebook or Google Colab.
+The `RoBERTa_Finetune.ipynb` file can run locally through Jupyter Notebook or Google Colab.
 
 Requirements:
 
