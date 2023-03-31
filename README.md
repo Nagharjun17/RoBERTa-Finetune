@@ -10,7 +10,7 @@ AG News Dataset
 Performance and Results:
 
 | Training	| Fully Fine-tuned RoBerta |	Frozen RoBerta |
--------------------------------------------------------|
+------------|--------------------------|---------------|
 | Training Loss |	0.2136 |	1.3952 |
 | Training Accuracy |	92.68 |	24.15 |
 | Training Precision |	93.02 |	29.11 |
